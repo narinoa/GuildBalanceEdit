@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+	<Name>MainPanel</Name>
+	<Children>
+		<Item href="ListPanelButtonLeft.(WidgetButton).xdb" />
+		<Item href="ListPanelButtonRight.(WidgetButton).xdb" />
+		<Item href="EditLine/EditLineBG.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="EditLine/EditLineBGn.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="EditLine/EditBoxBG.(WidgetPanel).xdb#xpointer(/WidgetPanel)" />
+		<Item href="PanelGold.(WidgetPanel).xdb" />
+		<Item href="PanelCheck.(WidgetPanel).xdb" />
+		<Item href="Header.(WidgetTextView).xdb" />
+		<Item href="Text.(WidgetTextView).xdb" />
+		<Item href="Button.(WidgetButton).xdb" />
+		<Item href="CheckBox/CheckBox.(WidgetButton).xdb" />
+		<Item href="ButtonCornerCross.(WidgetButton).xdb" />
+	</Children>
+	<BackLayer href="Textures/MainFrame.(WidgetLayerTiledTexture).xdb" />
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>400</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>350</Size>
+		</Y>
+	</Placement>
+</WidgetPanel>

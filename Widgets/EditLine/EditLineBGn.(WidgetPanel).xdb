@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+    <Name>EditLineBGn</Name>
+    <Children>
+		<Item href="EditLinen.(WidgetEditLine).xdb#xpointer(/WidgetEditLine)" />
+    </Children>
+	<BackLayer href="MainFrame.(WidgetLayerTiledTexture).xdb#xpointer(/WidgetLayerTiledTexture)" />
+    <Placement>
+        <X>
+            <Align>WIDGET_ALIGN_LOW</Align>
+            <Size>100</Size>
+			<Pos>20</Pos>
+        </X>
+        <Y>
+            <Align>WIDGET_ALIGN_LOW</Align>
+            <Size>50</Size>
+			<Pos>25</Pos>
+        </Y>
+    </Placement>
+</WidgetPanel>

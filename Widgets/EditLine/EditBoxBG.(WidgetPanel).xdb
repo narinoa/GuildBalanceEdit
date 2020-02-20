@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<WidgetPanel>
+    <Name>EditBoxBG</Name>
+    <Children>
+		<Item href="EditBox.(WidgetEditBox).xdb" />
+    </Children>
+	<BackLayer href="EditBoxFrame.(WidgetLayerTiledTexture).xdb" />
+    <Placement>
+        <X>
+            <Align>WIDGET_ALIGN_LOW</Align>
+            <Size>340</Size>
+			<Pos>20</Pos>
+        </X>
+        <Y>
+            <Align>WIDGET_ALIGN_LOW</Align>
+            <Size>250</Size>
+			<Pos>25</Pos>
+        </Y>
+    </Placement>
+</WidgetPanel>
